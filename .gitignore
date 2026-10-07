@@ -1,0 +1,23 @@
+.env
+.venv/
+venv/
+
+__pycache__/
+*.py[cod]
+
+tests/
+.pytest_cache/
+.mypy_cache/
+
+# Coverage reports and directories
+coverage/
+htmlcov/
+*.coverage
+coverage.xml
+
+node_modules/
+
+.DS_Store
+
+data/memory_log.csv
+Note.md
